@@ -17,19 +17,6 @@ Este projeto é resultado da atividade prática proposta no bootcamp Potência T
 - Laços de repetição
 - Estruturas de decisões
 
-### Objetivo
-
-# Escrevendo as classes de um Jogo
-
-**O Que deve ser utilizado**
-
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
-- Funções
-- Classes e Objetos
-
 ## Objetivo:
 
 Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
